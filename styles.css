@@ -1,2 +1,9 @@
 
 /* Your CSS Code here. */
+header{
+	font-size:24px;
+}
+
+nav a{
+	font-size:18px;
+}
